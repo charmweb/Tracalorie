@@ -1,2 +1,0 @@
-# Tracalorie
-Created with CodeSandbox
